@@ -1,9 +1,9 @@
 {
-  "name": "jest-teamcity-reporter",
-  "version": "0.9.0",
+  "name": "@selfpub/jest-teamcity-reporter",
+  "version": "0.9.1",
   "license": "MIT",
   "description": "Teamcity Reporter for Jest Test Results",
-  "homepage": "https://github.com/winterbe/jest-teamcity-reporter",
+  "homepage": "https://github.com/selfpub-org/jest-teamcity-reporter",
   "author": {
     "name": "Benjamin Winterberg",
     "url": "http://winterbe.com"
@@ -19,10 +19,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/winterbe/jest-teamcity-reporter.git"
+    "url": "git://github.com/selfpub-org/jest-teamcity-reporter.git"
   },
   "bugs": {
-    "url": "https://github.com/winterbe/jest-teamcity-reporter/issues"
+    "url": "https://github.com/selfpub-org/jest-teamcity-reporter/issues"
   },
   "main": "index.js",
   "dependencies": {}

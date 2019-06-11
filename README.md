@@ -1,4 +1,7 @@
-# jest-teamcity-reporter
+# @selfpub/jest-teamcity-reporter
+
+> This fork Benjamin Winterberg jest-teamcity-reporter with Matt Hodgson (mhodgson/jest-teamcity-reporter) with fix for latest Jest API
+> Republish for team using
 
 > Integrate Jest test results into your Teamcity CI builds
 
